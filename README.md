@@ -19,3 +19,5 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 notifications: Smtp.js, nodemailer
 
+Steps to run locally: Go to the project directory cd Online-quiz-portal/server.js Install dependencies npm install Install this project with npm. For Frontend, install dependencies npm install Start the server npm start. To run backend run node server.js agter connecting it to your database.
+
